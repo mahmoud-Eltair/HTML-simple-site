@@ -1,2 +1,75 @@
-*.agdai
-MAlonzo/**
+
+<html lang="ar">
+<head>
+<!--<label>-->
+<input type="button" value="login.">
+<input type="submit" value="singup">
+<input type="reset" value="clear">
+<input type=" ">
+<h4 align="left">username</h4><input type="email" placeholder="entre email">
+<h4 align="left">password:</h4><input type="password" placeholder="entre password">
+<label>mal</label>
+<input type="radio" name="g">
+<label>female</label>
+<input type="radio" name="g">
+<h6>Do you agree to allow notifications?</h6>
+</head>
+<hr>
+</html>
+
+
+<!--"headings"-->
+<h1 style="color:red">Mohax For Programming</h1>
+<h2 style="color:blue">welcom in our site</h2>
+<h3>This site is manage by</h3>
+<h4 style="color:white; background-color:black">Mahmoud El tair</h4>
+<hr>
+<h4>Mohax</h4>
+<h5>Mohax</h5>
+<h6>Mohax</h6>
+<img src="Phone/DCIM/Facebook/FB_IMG_1610016943370.ipg" width=100px height=100px>
+<title>Mahmoud Altair</title>
+<link rel="icon href="html.jpg"/>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+<center>
+<h3 style="color: green; border:3px solid orange">login page by Google account</h3><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<lable> email </lable>
+<input type="email" placeholder="entr email here"><br>
+<label>password</label>
+<input type="password" placeholder="entr your password here"><br>
+
+<h5 dir="rtl" style="color:white; background-color:black; border:2px solid gray"> " مرحبا بكم في &nbsp;موقع محمود الطير للبرمجة</h5>
+<table border=1>
+<tr>
+<td>Ayman</td>
+<td>Galal</td>
+<td>Fawzy</td>
+<td>Mansour</td>
+</tr>
+<tr>
+<td>Fahmy</rd>
+<td>Mosbah</td>
+<td>fauz</td>
+<td rowspan="2">my bests</td>
+</tr>
+<a href="https://www.facebook.com/mahmoud.eltaier.37" target="_self" >تابعونا علي Facebook</a>
+&nbsp;
+<!--<h5 dir="rtl">&hearts;</h5>-->
+&copy;
+&reg;
+&trade;
+<!--"be careful here"-->
+<a href="Eltair.html" >refresh</a>
+<h4 align="right" style="color:red; background-color:blue;">Mohax</h4>
+<h4 align="center" style="color:green; background-color:red;">Mohax</h4>
+<h4 align="left" style="color:yellow; background-color:black">Mohax</h4>
+<p>we are happy</p> <p>for your visit</p>
+<button>In the name of God, the Most Gracious, the Most Merciful. We welcome you again to our humble site, wishing you to spend the happiest times on our site and we hope that we will admire you.</button>
+<h1 contenteditable="true">enter your name</h1>
+<img src="Phone/Download/facebook-icon-round-png-26(1).jpg" width=75 height=75>
+
+</body
+</head>
+</html>
